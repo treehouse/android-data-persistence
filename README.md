@@ -1,4 +1,4 @@
-android-data-persistence
-========================
+Treehouse MemeMaker (Android)
+=============================
 
-Project files for the Android Data Persistence course
+These are the full project files for the MemeMaker app used in Treehouse's Android Data Persistence course.
