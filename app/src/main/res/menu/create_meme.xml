@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.teamtreehouse.mememaker.ui.CreateMemeActivity" >
+    <item android:id="@+id/choose_font_action"
+        android:showAsAction="always"
+        android:title="@string/action_choose_font"
+        android:actionLayout="@layout/font_color_selection" />
+    <item android:id="@+id/save_action"
+        android:title="@string/action_save"
+        android:icon="@android:drawable/ic_menu_save"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom" />
+</menu>

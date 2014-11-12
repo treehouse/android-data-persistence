@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/edit_action"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="@string/edit_action"
+        android:visible="false"
+        android:showAsAction="ifRoom" />
+    <item android:id="@+id/share_action"
+        android:icon="@android:drawable/ic_menu_share"
+        android:visible="false"
+        android:title="@string/share_action"
+        android:showAsAction="ifRoom" />
+    <item android:id="@+id/settings_action"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:title="@string/settings_action"
+        android:showAsAction="ifRoom" />
+</menu>
